@@ -37,14 +37,14 @@ a:hover {
 .section-heading p {
   font-size: 14px;
   font-weight: 300;
-  color: #727272;
+  color: rgb(72, 71, 71);
   line-height: 20px;
 }
 .title {
   font-size: 30px;
   line-height: 1.1;
   font-weight: 300;
-  color: #333;
+  color: #000;
   text-transform: uppercase;
   margin-bottom: 20px;
 }

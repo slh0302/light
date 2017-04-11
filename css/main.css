@@ -140,7 +140,7 @@ a:hover {
   opacity: 0;
 }
 #hero-area {
-  background: url('../images/slider.jpg') no-repeat 50%;
+  background: url('../images/slider.jpg') no-repeat 45%;
   background-size: cover;
   background-attachment: fixed;
   padding: 230px 0;
@@ -151,7 +151,7 @@ a:hover {
 #hero-area:before {
   content: '';
   z-index: 9;
-  background: rgba(255, 255, 255, 0.78);
+  background: rgba(255, 255, 255, 0.4);
   position: absolute;
   top: 0;
   left: 0;
@@ -187,7 +187,6 @@ a:hover {
   padding: 20px 35px;
   margin-top: 30px;
   font-size: 16px;
-  font-size: 13px;
   line-height: 1em;
   text-transform: uppercase;
   letter-spacing: normal;
